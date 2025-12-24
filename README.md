@@ -15,15 +15,18 @@ Note: Magnets are optional and were added for convenience when doing maintentanc
 Google sheet read only access for parts and example link
 https://docs.google.com/spreadsheets/d/1ZoRvAx0A1yFnXvycSKdQpMUQfJzkTdYySFF6mOvpTs4/
 
+## Tool
+- 3d printer (or a friend with one 😅)
+- PLA in the colors you want to print in
+- Screw driver (m3 screws, fan screws, liquid cooler mounting hardware)
+- Threaded Insert Press or soldering iron (https://a.co/d/6IZ1DYe)
 
 ## M3 Screw notes
-
 I used M3 6-8mm long seem to work. 8mm long works best in my opinion. Just make sure pitch matches the threaded inserts of your choosing.
 
 
 ## Components Notes
-
-General Part inserts are 9.8mm square while vertical frame parts are 14mm and horizontal frame beams are 10mm. Insert space/holes are usually around 10mm in size should you want to print and custom parts like replacing main supports with something custom adding wire harness point.
+General Part inserts are 9.8mm square while vertical frame parts are 14mm and horizontal frame beams are 10mm. Insert space/holes are usually around 10mm in size should you want to print and custom parts like replacing main supports with something custom adding wire harness point. All intentations for 6mm x 2mm magnets are optional.
 
 ### Corner Feed
 
