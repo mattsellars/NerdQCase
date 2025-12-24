@@ -1,6 +1,8 @@
 # NerdQAxe2Case
 Repo for the printable parts and construction info for the liquid cooled NerdQAxe++ case named Big Daddy after the Bioshock video game character.
 
+If you can open the Version 2 3mf file everything in there should be setup to print. Tweak materials, brim, and fill settings as desired for your printer and materials.
+
 
 ## Parts list
 
@@ -15,8 +17,34 @@ https://docs.google.com/spreadsheets/d/1ZoRvAx0A1yFnXvycSKdQpMUQfJzkTdYySFF6mOvp
 I used M3 6-8mm long seem to work. 8mm long works best in my opinion. Just make sure pitch matches the threaded inserts of your choosing.
 
 
+## Components Notes
+
+General Part inserts are 9.8mm square while vertical frame parts are 14mm and horizontal frame beams are 10mm. Insert space/holes are usually around 10mm in size should you want to print and custom parts like replacing main supports with something custom adding wire harness point.
+
+### Corner Feed
+
+There's 2 corner feed designs print 2 of each if using the STL files for proper threaded insert alignment.
+
+### Main Supports
+
+Measurements 14mm x 14mm x 174mm. Not all holes are used for threaded inserts only the side facing left or right (see picture). You only need one threaded insert so make sure you know the corner orientation before adding the threaded inserts.
+
+[TODO PICTURE HERE]
+
+### Base
+
+There's a few options for base depending on what type of fan you might want to mount. You just need to pick a left/right.
+
+### QX Board Spacers
+
+These board spaces are only needed if you use the backing metal mount plate from the AIO cooler. The edges are too close to properly seat on the QX thread mounts so these spacers allow the clearance.
+
+If you have bolts that work to mount the AIO cooler without the plate then you don't need the spacers.
+
+
 ## Assembly Instructions
 
-If you can open the m3f file everything in there should be setup to print. Tweak materials, brim, and fill settings as desired for your printer and materials.
+TODO
+
 
 
