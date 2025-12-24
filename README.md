@@ -1,5 +1,7 @@
-# NerdQAxe2Case
-Repo for the printable parts and construction info for the liquid cooled NerdQAxe++ case named Big Daddy after the Bioshock video game character.
+# NerdQ*Case
+This originally started as a NerdQAxe++ case and I built a second easier to assemble and maintain version for the nerd QX which is what is currently posted here. A board mount for the nerdqaxe++ is all that is needed to make this work for the Q++ which should follow shortly.
+
+Repo for the printable parts and construction info for the liquid cooled case nicknamed Big Daddy after the Bioshock video game character.
 
 If you can open the Version 2 3mf file everything in there should be setup to print. Tweak materials, brim, and fill settings as desired for your printer and materials.
 
