@@ -31,7 +31,8 @@ There's 2 corner feed designs print 2 of each if using the STL files for proper 
 
 Measurements 14mm x 14mm x 174mm. Not all holes are used for threaded inserts only the side facing left or right (see picture). You only need one threaded insert so make sure you know the corner orientation before adding the threaded inserts.
 
-[TODO PICTURE HERE]
+![IMG_1145](https://github.com/user-attachments/assets/4d4da244-de3d-4939-ac62-b14fd275f215)
+
 
 ### Base
 
