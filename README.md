@@ -5,6 +5,8 @@ Repo for the printable parts and construction info for the liquid cooled case ni
 
 If you can open the Version 2 3mf file everything in there should be setup to print. Tweak materials, brim, and fill settings as desired for your printer and materials.
 
+![IMG_1237](https://github.com/user-attachments/assets/d0a7706a-8ea3-4167-97a1-6f9bebdf515d)
+
 
 ## Parts list
 
